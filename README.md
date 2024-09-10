@@ -1,11 +1,8 @@
 # SWE-GROUP-2
 
-Group Project Idea: Online Reservation/Booking System for a Hotel <br/>
-A booking system is the kind of application that will allow users to see days when a hotel is
-booked and days when it’s available. On clicking on an available day, they should be given the
-option of making a booking and completing their payment 
+Group Project selection: We have decided on doing the “Online Reservation/Booking System for a Hotel”. It will consist of a mock website for a hotel that can take in reservations, look at currently available bookings, and submit payments for future reservations.
 
-Project Description
+Project Description:
 
 What types of users will use this system, and how? 
 Our platform caters to travelers seeking a cozy, cabin-style hotel experience. Users can easily search for hotels based on their preferred location, browse available options, and check availability. Once they’ve found the perfect spot, they can book their stay directly through our website by securing their stay with a credit card, ensuring a seamless and enjoyable booking experience.
@@ -38,3 +35,29 @@ Room
 Room Images
 Payment
 Bookings
+
+
+Ideas and Brainstorming:
+
+
+Project Ideas
+Payments (HTML Form)
+First name, Last name
+16 digits
+CVV 3-4 digits (Depending on card)
+Expiration date: mm/yy (not expired)
+What type of rooms: Start with one type (2 queen beds, one bath.)
+5 floors (Ex: 101 - first floor, first room. 205 - second floor, fifth room)
+25 rooms per floor
+Little calendar graphic to scroll through to see available booking dates
+
+Extra Ideas
+Different rooms (one bed, suite)
+Receipt after payment that can include if you qualify for free things depending on what room and how many days you book
+Amenities
+ Depending on the date (Weekends, Holidays) make the payment more expensive
+Identify credit card type based on card input.
+Display map of hotel locations using google maps api
+First digit: Visa (4), Mastercard (2 or 5), American Express (3), Discover (6).
+Login page: Users who book a stay can log in (username, password) to access information about their reservation. 
+confirmation number 
