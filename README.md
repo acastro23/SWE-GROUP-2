@@ -56,6 +56,8 @@ Different rooms (one bed, suite)
 Receipt after payment that can include if you qualify for free things depending on what room and how many days you book
 Amenities
  Depending on the date (Weekends, Holidays) make the payment more expensive
+Add email or SMS notifications for booking confirmations, payment recipts, and reminders before check in
+Use external payment processing services or implement stronger validation for payment details
 Identify credit card type based on card input.
 Display map of hotel locations using google maps api
 First digit: Visa (4), Mastercard (2 or 5), American Express (3), Discover (6).
